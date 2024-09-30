@@ -1,0 +1,48 @@
+@keyframes strawberry1 {
+ from {
+     transform: translateY(-10px);
+ }
+    50% {
+        transform: translateY(10px);
+    }
+    to {
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes strawberry2 {
+    from {
+        transform: translateY(10px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    to {
+        transform: translateY(10px);
+    }
+}
+
+@keyframes circle-pulse {
+    from {
+        transform: scale(1);
+        opacity: 1;
+    }
+    to {
+        transform: scale(3.5);
+        opacity: 0;
+    }
+}
+
+@keyframes circle-pulse-second {
+    from {
+        transform: scale(1);
+        opacity: 1;
+    }
+    30% {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(3.2);
+        opacity: 0;
+    }
+}

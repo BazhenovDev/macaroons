@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Tavolga";
+    src: url("../fonts/Tavolga.ttf");
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("../fonts/Gilroy-Regular.ttf") format("TrueType"),
+    url("../fonts/Gilroy-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GilroyMedium";
+    src: url("../fonts/Gilroy-Medium.ttf") format("TrueType"),
+    url("../fonts/Gilroy-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GilroyBold";
+    src: url("../fonts/Gilroy-Bold.ttf") format("TrueType"),
+    url("../fonts/Gilroy-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GilroyExtraBold";
+    src: url("../fonts/Gilroy-ExtraBold.ttf") format("TrueType"),
+    url("../fonts/Gilroy-ExtraBold.woff") format("woff");
+}
